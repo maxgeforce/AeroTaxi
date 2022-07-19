@@ -1,0 +1,30 @@
+[
+  {
+    "name": "sebas",
+    "LastName": "poo",
+    "Dni": "30451111",
+    "id": 1,
+    "age": 38
+  },
+  {
+    "name": "Ciro",
+    "LastName": "Lopez",
+    "Dni": "44218132",
+    "id": 2,
+    "age": 20
+  },
+  {
+    "name": "Maxi",
+    "LastName": "Fernandez",
+    "Dni": "40123123",
+    "id": 3,
+    "age": 30
+  },
+  {
+    "name": "Leandro",
+    "LastName": "Lorenzo",
+    "Dni": "35123123",
+    "id": 4,
+    "age": 40
+  }
+]

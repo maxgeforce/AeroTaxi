@@ -1,0 +1,113 @@
+[
+  {
+    "ticket": "2f0cadf9-54a4-4485-957f-97d4bc2229f7",
+    "price": 226550,
+    "destination": "Cor_San",
+    "total_passengers": 2,
+    "plane": {
+      "planeType": 4000,
+      "nombre": "eclipse 555-Silver",
+      "coste": 200,
+      "maxPassenger": 4,
+      "kmXhs": 694.0,
+      "kmTraveled": 2084.0,
+      "engineType": "MOTOR_A_HELICE",
+      "listPlane": []
+    },
+    "passager": {
+      "name": "Ciro",
+      "LastName": "Lopez",
+      "Dni": "44218132",
+      "id": 2,
+      "age": 20
+    },
+    "fechaDeViaje": {
+      "year": 2022,
+      "month": 9,
+      "dayOfMonth": 9,
+      "hourOfDay": 17,
+      "minute": 1,
+      "second": 27
+    }
+  },
+  {
+    "ticket": "716df511-5ad1-4c5f-a77f-cbc8c385af61",
+    "price": 306600,
+    "destination": "BsAs_Mon",
+    "total_passengers": 2,
+    "plane": {
+      "planeType": 6000,
+      "nombre": "cessna 550-Gold",
+      "coste": 300,
+      "maxPassenger": 8,
+      "kmXhs": 746.0,
+      "kmTraveled": 3700.0,
+      "engineType": "MOTOR_A_REACCION",
+      "listPlane": [
+        {
+          "year": 2022,
+          "month": 7,
+          "dayOfMonth": 7,
+          "hourOfDay": 17,
+          "minute": 45,
+          "second": 26
+        }
+      ]
+    },
+    "passager": {
+      "name": "Leandro",
+      "LastName": "Lorenzo",
+      "Dni": "35123123",
+      "id": 4,
+      "age": 40
+    },
+    "fechaDeViaje": {
+      "year": 2022,
+      "month": 10,
+      "dayOfMonth": 10,
+      "hourOfDay": 17,
+      "minute": 45,
+      "second": 29
+    }
+  },
+  {
+    "ticket": "99f63c73-08ec-48f0-9378-c2197ca07bec",
+    "price": 441600,
+    "destination": "BsAs_San",
+    "total_passengers": 2,
+    "plane": {
+      "planeType": 6000,
+      "nombre": "cessna 650-Gold",
+      "coste": 300,
+      "maxPassenger": 8,
+      "kmXhs": 746.0,
+      "kmTraveled": 3700.0,
+      "engineType": "MOTOR_A_REACCION",
+      "listPlane": [
+        {
+          "year": 2022,
+          "month": 9,
+          "dayOfMonth": 9,
+          "hourOfDay": 17,
+          "minute": 46,
+          "second": 5
+        }
+      ]
+    },
+    "passager": {
+      "name": "Maxi",
+      "LastName": "Fernandez",
+      "Dni": "40123123",
+      "id": 3,
+      "age": 30
+    },
+    "fechaDeViaje": {
+      "year": 2022,
+      "month": 7,
+      "dayOfMonth": 25,
+      "hourOfDay": 17,
+      "minute": 46,
+      "second": 10
+    }
+  }
+]
